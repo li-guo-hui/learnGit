@@ -31,4 +31,8 @@ public class test1 {
     public void person_2_5() {
 
     }
+
+    public void person_2_6() {
+
+    }
 }
