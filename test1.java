@@ -16,6 +16,10 @@ public class test1 {
 
     }
 
+    public void person_2_3() {
+
+    }
+
     public void method3() {
 
     }
