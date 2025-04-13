@@ -27,4 +27,8 @@ public class test1 {
     public void person_2_4() {
 
     }
+
+    public void person_2_5() {
+
+    }
 }
