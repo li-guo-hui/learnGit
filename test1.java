@@ -23,4 +23,8 @@ public class test1 {
     public void method3() {
 
     }
+
+    public void person_2_4() {
+
+    }
 }
